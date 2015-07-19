@@ -3,7 +3,7 @@ Contributors: ArenaPigskin
 Tags: breaking news, banner
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -28,6 +28,9 @@ The banner has a width of 100%, so it will fit into any size container; however,
 2. The breaking news banner in action on the web site.
 
 == Changelog ==
+
+= 1.2.1 =
+- Fixes: Issue with the JavaScript file for the breaking news post type admin area not being included in the plugin.
 
 = 1.2 =
 - Added: Option for users to select whether the link will be internal or external.
